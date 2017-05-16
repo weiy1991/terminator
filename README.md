@@ -2,7 +2,7 @@
 
 ## What is the terminator?
 
-	Terminator is a better terminal for Ubuntu. It can split one terminal to several sub-terminals, which allow the user to work on ubuntu without starting a new terminal.
+Terminator is a better terminal for Ubuntu. It can split one terminal to several sub-terminals, which allow the user to work on ubuntu without starting a new terminal.
 
 
 ## How can we install the terminator?
