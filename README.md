@@ -2,7 +2,7 @@
 
 ## What is the terminator?
 
-Terminator is a better terminal for Ubuntu. It can split one terminal to several sub-terminals, which allow the user to work on ubuntu without starting a new terminal.
+Terminator is a better terminal for Ubuntu. It can split one terminal to several sub-terminals, which allows the user to work on ubuntu without starting a new terminal.
 
 
 ## How can we install the terminator?
@@ -14,7 +14,7 @@ sudo apt-get install terminator
 ```
 
 ## How can we modify the defaul style for terminator?
-Some people may find that the defaul sytle of terminator is not good for working, such as the font style and the color of the backgroud, you can modify the style in the "config" file by yourself with this command:
+Some people may find that the default sytle of terminator is not good for working, such as the font style and the color of the backgroud, you can modify the style in the "config" file by yourself with this command:
 	
 
 ```sh
